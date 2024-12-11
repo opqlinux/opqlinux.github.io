@@ -2,7 +2,6 @@
 
 # Hello GitHub Actions
  我是阿Q
-_Create and run a GitHub Actions workflow._
 
 </header>
 
